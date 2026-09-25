@@ -1,0 +1,9 @@
+{
+  "name": "ร้าน Juicy Terrazza - POS",
+  "short_name": "Juicy Terrazza",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#17212b",
+  "theme_color": "#17212b",
+  "icons": []
+}
